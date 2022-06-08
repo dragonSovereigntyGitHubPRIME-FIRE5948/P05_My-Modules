@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/c346TextView"
+        android:layout_width="410dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/text_view_border"
+        android:drawableLeft="@drawable/text_view_border"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:text="@string/c346"
+        android:textSize="8pt" />
+
+    <TextView
+        android:id="@+id/c203TextView"
+        android:layout_width="410dp"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="10dp"
+        android:textSize="8pt"
+        android:background="@drawable/text_view_border"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/text_view_border"
+        android:text="@string/c203" />
+
+    <TextView
+        android:id="@+id/c206TextView"
+        android:layout_width="410dp"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="10dp"
+        android:textSize="8pt"
+        android:background="@drawable/text_view_border"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/text_view_border"
+        android:text="@string/c206" />
+
+    <TextView
+        android:id="@+id/c218TextView"
+        android:layout_width="410dp"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="10dp"
+        android:textSize="8pt"
+        android:background="@drawable/text_view_border"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/text_view_border"
+        android:text="@string/c218" />
+
+    <TextView
+        android:id="@+id/c235TextView"
+        android:layout_width="410dp"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:textSize="8pt"
+        android:background="@drawable/text_view_border"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/text_view_border"
+        android:text="@string/c235" />
+
+</LinearLayout>
